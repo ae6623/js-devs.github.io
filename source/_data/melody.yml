@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: js-dev.cn
+title: Hexo
 subtitle:
 description:
-author:
+author: John Doe
 language:
 timezone:
 
@@ -72,8 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anodyne
-##hexoThemeKacper
+theme: melody
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
